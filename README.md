@@ -7,3 +7,5 @@ Topics:
 
 - `01-shallow-deep.js` (basics on mutation, references, shallow and deep
   copies)
+
+- `02-pure-functions.js` (what pure functions are with examples)
