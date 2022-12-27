@@ -9,3 +9,4 @@ Topics:
   copies)
 - `02-pure-functions.js` (what pure functions are with examples)
 - `03-curry.js` (currying in JS)
+- `04-pipe-compose.js` (function composition, pipe and compose)
